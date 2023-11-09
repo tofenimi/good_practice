@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+h1{
+ color: aqua;
+ background-color: gold;
+ font-size: 100px;
+ text-shadow : 2px 2px #ff0000;
+ text-align : center;
+ text-decoration : underline overline ;
+ font-family: 'Oswald', sans-serif;
+}
+
+h2{
+text-align : right;
+background-color: purple;
+color : red ;
+text-decoration : 
+font-family: 'Oswald', sans-serif;
+}
+h3{
+font-family: 'Oswald', sans-serif;
+}
+body {
+ background-image: url("background.jpg");
+ background-repeat: no-repeat;
+}
+
+.image {
+  height: 400px;
+  width: 450px;
+  image-rendering : crisp-edge;
+  border-radius:200px;
+}
+
+#sch1 {
+border : solid ;
+border-size: 20px;
+border-color : brown;
+text-align : center;
+background-color : cyan;
+
+}
+
+.LISTA{
+	text-size: 160px;
+	
+	
+	
+	
+}
